@@ -1,4 +1,4 @@
-##deploy the api to vercel and go
+## deploy the api to vercel and go
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ghoshRitesh12/aniwatch-api)
 
 ## Table of Contents
@@ -1212,7 +1212,20 @@ console.log(data);
 [🔼 Back to Top](#table-of-contents)
 
 </details>
+## Contact Me
+
+--> Instagram 
 contact me 😄 
 
 on Instagram 
 https://www.instagram.com/itz_me_dev_moin?igsh=MXd2ZmpheHE0aGJxMA==
+
+<a href="https://www.instagram.com/itz_me_dev_moin?igsh=MXd2ZmpheHE0aGJxMA=="><img src="https://i.ibb.co.com/DDGTLS51/IMG-20250219-022007-142.png" alt="IMG-20250219-022007-142" border="0"></a>
+
+--> Messager 
+
+https://m.me/369Moin
+
+--> Discord
+
+
